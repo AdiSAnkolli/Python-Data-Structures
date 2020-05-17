@@ -1,2 +1,2 @@
 # Python-Data-Structures
-Basic Data structures and their implementations
+Basic Data structures and their functions
